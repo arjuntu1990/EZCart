@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EZCart.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/EZCart.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EZCartApp.iml" filepath="$PROJECT_DIR$/.idea/modules/EZCartApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EZCartApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EZCartApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/depconstraints/EZCartApp.depconstraints.iml" filepath="$PROJECT_DIR$/.idea/modules/depconstraints/EZCartApp.depconstraints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/EZCartApp.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/EZCartApp.shared.iml" />
+    </modules>
+  </component>
+</project>

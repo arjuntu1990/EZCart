@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EZCartApp</string>
+    <string name="user_id">User Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup"><u>SignUp</u></string>
+    <string name="enter_a_valid_user_id">Enter a valid user id</string>
+    <string name="enter_a_valid_password">Enter a valid password</string>
+    <string name="logout">Logout</string>
+    <string name="activity_interactor_is_not_implemented_by_auth_activity">ActivityInteractor is not implemented by AuthActivity</string>
+</resources>
